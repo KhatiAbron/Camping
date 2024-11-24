@@ -1,1 +1,1 @@
-This project is about finding camping spots.
+This project is about finding camping spots. :)
